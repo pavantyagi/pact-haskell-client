@@ -1,3 +1,5 @@
 .stack-work/
 pact-haskell-client.cabal
 *~
+.DS_Store
+
